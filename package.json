@@ -1,0 +1,25 @@
+{
+  "name": "gnana-sai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.1.0",
+    "alchemy-sdk": "^3.4.7",
+    "crypto-js": "^4.2.0",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.4.0",
+    "solc": "^0.8.20"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.22.15"
+  }
+}
